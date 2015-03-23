@@ -1,0 +1,15 @@
+{
+  "name": "netconf",
+  "version": "1.0.0",
+  "description": "small client which generates places network config file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ansamb",
+  "license": "AGPL",
+  "dependencies": {
+    "async": "0.9.0",
+    "portscanner": "1.0.0"
+  }
+}
